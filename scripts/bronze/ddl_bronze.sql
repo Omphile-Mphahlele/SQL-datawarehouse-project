@@ -12,7 +12,7 @@ Script Purpose:
      - erp_px_cat_g1v2
 
 NOTE:
-  -> This script will truncate the tables if they already exist.
+  -> This script will drop the tables if they already exist.
 */
 
 IF OBJECT_ID('bronze.crm_cust_info', 'U') IS NOT NULL
