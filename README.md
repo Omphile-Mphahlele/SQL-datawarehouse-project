@@ -1,6 +1,7 @@
 # SQL-datawarehouse-project
 
 Welcome to my **SQL Data Warehouse** repository! 🏭
+
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating business ready data. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
 ---
@@ -66,10 +67,10 @@ data-warehouse-project/
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-## 🌟 About Me
+##  About Me
 
 Hi there! I'm **Omohile Mphahlele**, university student passionate about data on a mission to learn and grow in the IT industry.
 
-Let's stay in touch! Feel free to connect with me on the following platforms:
+Let's stay in touch! Feel free to connect with me on my LinkedIn profile:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omphile-mphahlele-9951782b8?utm_source=share_via&utm_content=profile&utm_medium=member_android)
